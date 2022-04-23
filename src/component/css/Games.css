@@ -1,0 +1,43 @@
+.games {
+    margin-top: 6em !important;
+}
+
+.games-header {
+    color: #fffffe !important;
+}
+
+.games-secondary {
+    color: #94a1b2 !important;
+}
+
+.display-games {
+    margin-top: 2em !important;
+}
+
+.game {
+    width: 200px;
+    height: 250px;
+}
+
+.game-name {
+    margin-top: 8em !important;
+    text-align: center !important;
+    color: #fffffe;
+}
+
+@media only screen and (max-width: 576px) {
+    .g-4 {
+        --bs-gutter-y: 3em !important;
+        --bs-gutter-x: 10px !important;
+    }
+
+    .game {
+        margin: 0 auto !important;
+        width: 300px;
+        height: 350px;
+    }
+
+    .game-name {
+        margin-top: 12em !important;
+    }
+}

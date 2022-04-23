@@ -1,0 +1,26 @@
+.navigation {
+    /* background-color: #16161a !important; */
+    color: #fffffe !important;
+
+}
+
+#brand {
+    color: #fffffe !important;
+    font-family: 'Montserrat:wght@500', sans-serif;
+}
+
+#brand span {
+    color: #7f5af0;
+}
+
+.navv>.item {
+    color: #94a1b2 !important;
+}
+
+.navv>.item.active {
+    color: #fffffe !important;
+}
+
+.navv>.item:hover {
+    color: #fffffe !important;
+}
