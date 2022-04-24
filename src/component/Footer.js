@@ -43,7 +43,7 @@ const Footer = () => {
                     </Row>
                 </div>
                 <hr className='footer-hr' />
-                <Button className='footer-claim mb-5' size='lg'>Claim Your Profile</Button>
+                <Button className='footer-claim mb-5 shadow-none' size='lg'>Claim Your Profile</Button>
             </Container>
             <Container>
                 <h6 className='text-center p-4 footer-credit'>© 2022 JOHN DOE</h6>
